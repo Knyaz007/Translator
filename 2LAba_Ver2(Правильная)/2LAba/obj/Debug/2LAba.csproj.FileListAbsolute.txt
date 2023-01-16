@@ -1,0 +1,50 @@
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\bin\Debug\2LAba.exe.config
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\bin\Debug\2LAba.exe
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\bin\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\_2LAba.Form1.resources
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\_2LAba.Properties.Resources.resources
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.exe
+C:\Users\Admin\Desktop\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\bin\Debug\2LAba.exe.config
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\bin\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\bin\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\_2LAba.Form1.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\_2LAba.Properties.Resources.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba2\2LAba\2LAba\obj\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.exe.config
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\obj\Debug\_2LAba.Form1.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\obj\Debug\_2LAba.Properties.Resources.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.exe.config
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\_2LAba.Form1.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\_2LAba.Properties.Resources.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\Копия\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.exe.config
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\bin\Debug\2LAba.pdb
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\_2LAba.Form1.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\_2LAba.Properties.Resources.resources
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.exe
+C:\Users\Admin\Desktop\5 семестр\Теория автоматов и формальных языков\Laba6\04.01 20_09\2LAba_Ver2(Правильная)\2LAba\obj\Debug\2LAba.pdb

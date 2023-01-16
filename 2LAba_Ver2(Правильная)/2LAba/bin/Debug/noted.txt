@@ -1,0 +1,6 @@
+var a,b : integer;
+begin
+a := 5+1;
+for b:=1+a  to a do begin
+c:=3*b;
+end; end.
